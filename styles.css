@@ -3,5 +3,10 @@ body {
 }
 
 div .text-center{
+    margin-top: 0px;
     background-color: #bda88b;
+}
+
+.container-fluid{
+  background-color: #462d0c;
 }
