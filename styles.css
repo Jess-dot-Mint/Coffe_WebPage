@@ -1,0 +1,61 @@
+
+
+
+
+/* background-color: #d6c2a8;*/
+.container-fluid{
+  background-color: #d6c2a8;
+  margin-top: 0%;
+  font-size: large;
+ 
+}
+
+a.navbar-brand{
+  font-size: 35px;
+}
+.navbar.bg-body-tertiary{
+  padding: 0px;
+  font-size:large;
+  
+}
+
+.d-grid .btn {
+  background-color: #554c40;
+  color: #d6c2a8;
+  border: #554c40;
+  
+}
+
+.parisienne-regular {
+  font-family: "Parisienne", cursive;
+  font-weight: 400;
+  font-style: normal;
+ 
+}
+
+
+
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.zen-loop-regular {
+  font-family: "Zen Loop", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.menu{
+  padding-left: 5rem;
+  font-size: 25px;
+  font-family: "Zen Loop", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.d-block .mx-lg-auto .img-fluid{
+  justify-content: center ;
+}
